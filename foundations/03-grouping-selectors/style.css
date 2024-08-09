@@ -1,0 +1,13 @@
+.click {
+    font-family: Helvetica, "Times New Roman", Sans-Serif;
+    font-size: 28px;
+}
+
+.one {
+    background-color: rgb(22, 22, 22);
+    color: rgb(240, 240, 240);
+}
+
+.two {
+    background-color: rgb(218, 229, 0);
+}
